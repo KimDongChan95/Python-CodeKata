@@ -1,5 +1,6 @@
 def solution(n):
-    return [int(digit) for digit in str(n)[::-1]]
+    answer = [int(i) for i in str(n)[::-1]]
+    return answer
 
 # 예시
 n = 13846
