@@ -4,3 +4,4 @@ def solution(n):
     answer.sort(reverse=True)
     
     return int(''.join(answer))
+
