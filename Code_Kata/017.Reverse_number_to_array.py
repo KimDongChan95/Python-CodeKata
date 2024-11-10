@@ -5,3 +5,4 @@ def solution(n):
 # 예시
 n = 13846
 print(solution(n))  
+SS
