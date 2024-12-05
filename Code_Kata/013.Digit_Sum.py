@@ -11,4 +11,4 @@ print(solution(4583))
 def solution(N):
     return sum(int(x) for x in str(N))
 
-print(solution(1263))  # 출력: 6
+print(solution(1263))  # 출력: 12
